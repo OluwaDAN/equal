@@ -1,0 +1,187 @@
+/*********** NAVBAR ***********/
+.mydiv{
+    top: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(2, 122, 30);
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    background-color:  rgb(2, 112, 30) !important;
+}
+
+.navbar .navbar-brand{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.3rem;
+    background-color: rgba(2, 112, 30, 0.788);
+}
+
+.navbar .navbar-brand:hover{
+    color: darkred !important;
+}
+
+.navbar .nav-item a{
+    color: black !important;
+    font-weight: bold;
+}
+
+.navbar .nav-item a:hover{
+    color: darkred !important;
+}
+
+.navbar .btn{
+    background-color: darkred !important;
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.navbar .btn:hover{
+    background-color: rgba(2, 112, 30, 0.788) !important;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+/****** About section *******/
+#About{
+    text-align: center;
+    padding-top: 70px;
+}
+.mission{
+    padding-top: 70px;
+}
+
+.missionpara{
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.missionimg{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+.visionH{
+    color: rgba(2, 112, 30, 0.788);
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}   
+
+.paraRex{
+    width: 100%;
+    /* font-weight: bold; */
+    font-size: 1rem;
+    line-height: 2;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.paraRex2{
+    width: 100%;
+    font-size: 1rem;
+    line-height: 2;
+    margin: auto;
+    padding-top: 20px;
+}
+
+
+/****** Service Section ******/
+
+#Service{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.serviceh1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.serviceimg{
+    width: 700px;
+    height: 400px;
+    padding-left: 50px;
+}
+
+.servicepara{
+    width: 80%;
+    text-align: left;
+    line-height: 2;
+    font-size: 1rem;
+}
+
+/* Contact Section */
+
+#Contact{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.contacth1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.addresstext1{
+    color: rgba(2, 112, 30, 0.788);
+}
+
+form{
+    width: 100%;
+    height: 300px;
+}
+
+input{
+    outline: none;
+    width: 90%;
+    height: 40px;
+    color: rgba(2, 112, 30, 0.788);
+    border: none;
+    border-bottom: solid 3px;
+}
+
+textarea{
+    color: rgba(2, 112, 30, 0.788);
+    width: 90%;
+    height: 100px;
+    outline: none;
+    border: none;
+    border-bottom: solid 3px;
+}
+
+.btn{
+    background-color: darkred;
+    color: #ffffff;
+}
+
+.btn:hover{
+    background-color: rgba(2, 112, 30, 0.788)
+}
+
+/***** Footer Section  *****/
+
+#footer{
+    text-align: center;
+    padding-top: 70px;;
+}
+
+.footersocial{
+    background-color: rgba(2, 122, 30, 0.788);
+}
+.social-icon{
+    margin: 20px 10px;
+}
+
+
+
+
+
